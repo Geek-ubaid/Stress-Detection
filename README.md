@@ -27,7 +27,7 @@ Before running the eyebrow_detection.py first download file in the same folder u
 - Try to be clear with your emotion, Fakeness cannot be detected.
 - The model is moderately accurate because the data could not be arranged within stipulated time.  
 
-##Improvement Strategy:
+## Improvement Strategy:
 The model can be improved by including other facial features inputs as well. The feature include:
 - Lip movement
 - Head positioning
